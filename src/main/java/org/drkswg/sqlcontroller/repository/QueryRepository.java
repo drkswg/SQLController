@@ -1,7 +1,7 @@
 package org.drkswg.sqlcontroller.repository;
 
-import org.drkswg.sqlcontroller.mappings.ResultSet;
-import org.drkswg.sqlcontroller.mappings.SingleValueResult;
+import org.drkswg.sqlcontroller.mapping.ResultSet;
+import org.drkswg.sqlcontroller.mapping.SingleValueResult;
 
 public interface QueryRepository {
     SingleValueResult getSingleValue(String query);

@@ -1,8 +1,8 @@
-package org.drkswg.sqlcontroller.mappings;
+package org.drkswg.sqlcontroller.mapping;
 
 import lombok.Data;
 
 @Data
 public class SingleValueResult {
-    String value;
+    Object value;
 }

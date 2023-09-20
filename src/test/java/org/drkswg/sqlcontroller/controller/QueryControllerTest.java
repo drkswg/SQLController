@@ -1,9 +1,9 @@
 package org.drkswg.sqlcontroller.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.drkswg.sqlcontroller.mappings.Query;
-import org.drkswg.sqlcontroller.mappings.ResultSet;
-import org.drkswg.sqlcontroller.mappings.SingleValueResult;
+import org.drkswg.sqlcontroller.mapping.Query;
+import org.drkswg.sqlcontroller.mapping.ResultSet;
+import org.drkswg.sqlcontroller.mapping.SingleValueResult;
 import org.drkswg.sqlcontroller.repository.QueryRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;

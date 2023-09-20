@@ -1,4 +1,4 @@
-package org.drkswg.sqlcontroller.mappings;
+package org.drkswg.sqlcontroller.mapping;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

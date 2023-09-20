@@ -3,8 +3,8 @@ package org.drkswg.sqlcontroller.repository;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.experimental.FieldDefaults;
-import org.drkswg.sqlcontroller.mappings.ResultSet;
-import org.drkswg.sqlcontroller.mappings.SingleValueResult;
+import org.drkswg.sqlcontroller.mapping.ResultSet;
+import org.drkswg.sqlcontroller.mapping.SingleValueResult;
 import org.drkswg.sqlcontroller.dao.QueryDAO;
 import org.springframework.stereotype.Service;
 
